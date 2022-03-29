@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-[GIF](https://recordit.co/KLcyTJIRHJ)
+![GIF](https://cdn.glitch.global/a78321e5-00a9-4d86-9948-f68f3879d04e/soundmemorygame.gif?v=1648568061466)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 

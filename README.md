@@ -39,11 +39,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-[Gif](https://recordit.co/KLcyTJIRHJ)
+[GIF](https://recordit.co/KLcyTJIRHJ)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random - to find out if I was able to generate psuedo random numbers in JS.
+My friends: Nicole, Johan, Prem, Uyen, and Kate - for feedback on implementing features.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 Upon implementing what I did, I was left with the question "Should I keep going?". I felt the urge to check off every
@@ -80,7 +81,7 @@ again by pressing a button, but the hard mode player cannot.
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://mit.zoom.us/rec/share/imSmpAUeKtS73HCKbkdHCcG6QvEhiHhFB8XUGBQCNHQiekBaWJ8j9IMJJpMPgBk.I9OTPphsPQJz9_u7?startTime=1648564784000)
 
 
 ## License
